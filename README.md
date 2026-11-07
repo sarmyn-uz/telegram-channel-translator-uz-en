@@ -92,4 +92,4 @@ MIT
 
 ## Author
 
-[@USERNAME](https://github.com/sarmyn-uz) • Telegram: [@zamin_origin](https://t.me/zamin_origin)
+[@SARMYN-UZ](https://github.com/sarmyn-uz) • Telegram: [@zamin_origin](https://t.me/zamin_origin)
